@@ -50,3 +50,8 @@ The cloud offers almost limitless storage capacity. At any time you can quickly 
 modified
 staged
 commit
+
+### three methods of git reset
+Stage 1–update
+Stage 2–update index to HEAD
+Stage 3–update the working dir to index 
