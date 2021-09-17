@@ -45,3 +45,8 @@ The cloud offers almost limitless storage capacity. At any time you can quickly 
 |----------|------------|
 |Git is a distributed version control tool that can manage a development project's source code history|GitHub is a cloud based platform built around the Git tool. |
 | Software that handles source code versioning, letting you make and track local file changes and share changes with a remote repository.| A cloud service for remote hosting of git repositories. In addition to hosting your code, the site helps manage software development projects with features like issue tracking, collaborating with other GitHub users, and hosting web pages.|
+
+## Stages of Git
+modified
+staged
+commit
