@@ -14,3 +14,29 @@ Continuous delivery is an ongoing DevOps practice of building, testing, staging 
 
 ## Continuous Deployment
 Continuous deployment is basically when teams rely on a fully-automated pipeline. This practice fully eliminates any manual steps and automates the entire process. Therefore, continuous deployment ensures that code is continuously being pushed into production. 
+
+## Benefits of Cloud 
+
+### Cost Savings
+Cost saving is one of the biggest Cloud Computing benefits. It helps you to save substantial capital cost as it does not need any physical hardware investments. Also, you do not need trained personnel to maintain the hardware. The buying and managing of equipment is done by the cloud service provider.
+
+### Strategic edge
+Cloud computing offers a competitive edge over your competitors. It is one of the best advantages of Cloud services that helps you to access the latest applications any time without spending your time and money on installations.
+
+### High Speed
+Cloud computing allows you to deploy your service quickly in fewer clicks. This faster deployment allows you to get the resources required for your system within fewer minutes.
+
+### Back-up and restore data
+Once the data is stored in a Cloud, it is easier to get the back-up and recovery of that, which is otherwise very time taking process on-premise.
+
+### Automatic Software Integration
+In the cloud, software integration is something that occurs automatically. Therefore, you don’t need to take additional efforts to customize and integrate your applications as per your preferences.
+
+### Reliability
+Reliability is one of the biggest benefits of Cloud hosting. You can always get instantly updated about the changes.
+
+### Mobility
+Employees who are working on the premises or at the remote locations can easily access all the could services. All they need is an Internet connectivity.
+
+### Unlimited storage capacity
+The cloud offers almost limitless storage capacity. At any time you can quickly expand your storage capacity with very nominal monthly fees.
