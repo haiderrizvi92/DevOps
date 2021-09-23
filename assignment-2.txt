@@ -1,0 +1,12 @@
+Q.1 Explain Docker container and VM
+
+Ans. Container is user space of the operating system. A container is a packaging format that packages all the code and dependencies of an application in a standard format that allows it to runs quickly and reliably across computing environments. A Docker container is a popular lightweight, standalone, executable container that includes everything needed to run an application, including libraries, system tools, code, and runtime.
+
+Virtual Machines VM
+ a virtual machine is the virtualization/emulation of a computer system. Virtual machines are based on computer architectures and provide functionality of a physical computer. Their implementations may involve specialized hardware, software, or a combination.
+
+
+
+Q.2 Docker Architecture
+
+Docker uses a client-server architecture. the Docker client talks to the Docker daemon, which does the heavy lifting of building, running and distributing your Docker containers.The docker client and daemon can run on the same system and communicate using RESTAPI
